@@ -48,7 +48,7 @@ An end-to-end clustering project exploring unsupervised learning techniques for 
 
 #### Supervised Learning Project
 
-A classification project developed for the **WiDS Datathon 2025 Kaggle Competition**, involving data preprocessing, feature engineering, model training, and predictive performance evaluation. ![Kaggle Competition](https://www.kaggle.com/competitions/widsdatathon2025/overview)
+A classification project developed for the [**WiDS Datathon 2025 Kaggle Competition**](https://www.kaggle.com/competitions/widsdatathon2025/overview), involving data preprocessing, feature engineering, model training, and predictive performance evaluation.
 
 ## Skills Demonstrated
 
